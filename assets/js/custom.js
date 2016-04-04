@@ -1,5 +1,5 @@
 /*
-Theme: eLearning - Free Educational Responsive Web Template
+Theme: Capacitaciones empresariales - Formación presencial, e-learning y blended learning
 Description: Free to use for personal and commercial use
 Author: WebThemez.com
 Website: http://webthemez.com
