@@ -16,9 +16,4 @@ CC 3.0 All of the site templates we create for WebThemez are licensed under the 
 Credits :
 --------- 
 
-=> Design & developed: "WebThemez"  http://webthemez.com 
-=> Bootstrap : http://getbootstrap.com/
-=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
-=> Fonts : https://www.google.com/fonts
-=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
-=> Carousel : http://owlgraphic.com/owlcarousel/
+=> Design & developed: "Andrés Quiñones"  https://gurugrafico.com
